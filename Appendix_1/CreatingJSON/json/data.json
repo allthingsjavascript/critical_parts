@@ -1,0 +1,25 @@
+{
+    "numQuestions":3,
+    "randomPresentation":true,
+    "questions":[
+        {
+            "stem":"What are the 6 primitive data types?",
+            "weight":1,
+            "type":"fill-in",
+            "ans":"string, boolean, number, undefined, null, symbol"
+        },
+        {
+            "stem":"JavaScript is the same as Java.",
+            "weight":1,
+            "type":"true-false",
+            "ans":false
+        },
+        {
+            "stem":"Using var is the only way to declare variables.",
+            "weight":1,
+            "type":"true-false",
+            "ans":false
+        }
+    ],
+    "title":"Lesson Quiz"
+}
